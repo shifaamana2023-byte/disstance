@@ -10,6 +10,11 @@ miles = distance_km * 0.621371
 # Display results
 print("Distance in metres =", metres)
 print("Distance in miles =", miles)
+print("Distance in miles =", miles)
+
+
+
+
 
 # Exit program
 sys.exit()
